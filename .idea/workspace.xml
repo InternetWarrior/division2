@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0850cf2-ea6c-41ab-81bf-ddb3ea3aaab6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gzOwjbDf5d2b9BDxSppmifjofv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pic" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryzeb\WebstormProjects\www\pic" />
+      <recent name="C:\Users\Ryzeb\WebstormProjects\www\PIC" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryzeb\WebstormProjects\www\desk" />
+      <recent name="C:\Users\Ryzeb\WebstormProjects\www\PIC" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0850cf2-ea6c-41ab-81bf-ddb3ea3aaab6" name="Default Changelist" comment="" />
+      <created>1599114194281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599114194281</updated>
+      <workItem from="1599114195352" duration="17722000" />
+      <workItem from="1599142212907" duration="4642000" />
+      <workItem from="1599148419097" duration="2374000" />
+      <workItem from="1599363378977" duration="3894000" />
+      <workItem from="1599377886362" duration="998000" />
+      <workItem from="1599421848603" duration="689000" />
+      <workItem from="1599459236746" duration="209000" />
+      <workItem from="1599558178105" duration="601000" />
+      <workItem from="1599829986837" duration="111000" />
+      <workItem from="1599909688177" duration="6681000" />
+      <workItem from="1599962023113" duration="719000" />
+      <workItem from="1599981781170" duration="745000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="544" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599114679335">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="544" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1599114679334" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1599124634772">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1599124634772" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1599125857258">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1599125857258" />
+  </component>
+</project>
